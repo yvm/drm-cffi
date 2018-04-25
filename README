@@ -1,0 +1,1 @@
+An attempt to CFFI-bind libdrm. The code's very raw. The final goal is to make low-level SIMD-optimized (2-,3-,n-dimension) graphics rendering engine without dependency of X or OpenGL.
